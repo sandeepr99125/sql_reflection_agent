@@ -1,6 +1,6 @@
 # 🔍 Module 2: Grounded SQL Reflection Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sqlreflectionagentgit-fghghxggdm3nvmtye6j22h.streamlit.app/)
 
 An implementation of the **Reflection Design Pattern** based on DeepLearning.AI's *Agentic AI* course taught by Andrew Ng.
 
